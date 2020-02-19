@@ -2,5 +2,7 @@ h1 {
     color: red;
 }
 
-<p class=”blue-bg”>
-</p>
+.blue-bg{
+    background: blue;
+}
+
